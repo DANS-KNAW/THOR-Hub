@@ -14,11 +14,11 @@ excerpt: ""
   ]
 }
 [/block]
-DOIs are an example of [Persistent Identifiers](https://project-thor.readme.io/docs/introduction-to-persistent-identifiers) (PIDs).
+DOIs are an example of [Persistent Identifiers](/docs/introduction-to-persistent-identifiers) (PIDs).
 
 DOIs have been adopted by the scholarly communication community as, almost, the 'default' identifier for publications. In the last years, they have been adopted as identifiers for data publication, enabling data citation and reuse.
 
-[Crossref and DataCite](https://project-thor.readme.io/docs/who-are-datacite-and-crossref) are the main organisations assigning DOIs for scholarly communication.
+[Crossref and DataCite](/docs/who-are-datacite-and-crossref) are the main organisations assigning DOIs for scholarly communication.
 [block:image]
 {
   "images": [

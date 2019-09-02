@@ -2,7 +2,7 @@
 title: "Introduction for policy makers"
 excerpt: ""
 ---
-Policy makers across the research domain are benefitting from the increased use of [Persistent Identifiers](https://project-thor.readme.io/docs/introduction-to-persistent-identifiers) (PIDs), which help to make more aspects of researcher's professional activities visible. Identifiers for people, datasets, organisations, publications and resources are a technological innovation with the power to help research and researchers at a global scale in the digital age.
+Policy makers across the research domain are benefitting from the increased use of [Persistent Identifiers](/docs/introduction-to-persistent-identifiers) (PIDs), which help to make more aspects of researcher's professional activities visible. Identifiers for people, datasets, organisations, publications and resources are a technological innovation with the power to help research and researchers at a global scale in the digital age.
 
 Research funders are integrating PIDs to make the creation, collection and analysis of research information easier, and more accurate. Here are just a few examples of how this works in practice.
 

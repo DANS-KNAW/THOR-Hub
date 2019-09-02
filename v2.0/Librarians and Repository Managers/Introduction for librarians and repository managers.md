@@ -2,7 +2,7 @@
 title: "Introduction for librarians and repository managers"
 excerpt: ""
 ---
-As a librarian, you have a strong background in information science and you understand the importance of extensive and well curated metadata. [Persistent Identifiers](https://project-thor.readme.io/docs/introduction-to-persistent-identifiers) (PIDs) can help you retrieving and sharing information by providing a shared interface to find and exchange metadata.
+As a librarian, you have a strong background in information science and you understand the importance of extensive and well curated metadata. [Persistent Identifiers](/docs/introduction-to-persistent-identifiers) (PIDs) can help you retrieving and sharing information by providing a shared interface to find and exchange metadata.
 
 The most extended PIDs for objects in scholarly communication are [DOIs](doc:what-is-a-doi). [Crossref](http://crossref.org/) and [DataCite](http://datacite.org) assign DOIs to publications and research data, respectively. When it comes to people, like researchers and other contributors, [ORCID iDs](doc:explaining-orcid) provide a unique identifier allowing their contributions to be more easily connected together. 
 
